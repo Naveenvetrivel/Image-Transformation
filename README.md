@@ -127,30 +127,38 @@ plt.show()
 ~~~
 
 ## Output:
+![image](https://github.com/Naveenvetrivel/Image-Transformation/assets/94165322/d1ca55c4-9134-45d9-bc69-aad32cc3c9c7)
+
 ### i)Image Translation
-![1 (1)](https://user-images.githubusercontent.com/94165322/232280565-4d11ea01-f279-4cb7-96d6-97e02364ff38.png)
+![image](https://github.com/Naveenvetrivel/Image-Transformation/assets/94165322/f22d3d48-715f-4934-a9c1-d8e647938d49)
+
 
 
 ### ii) Image Scaling
+![3](https://github.com/Naveenvetrivel/Image-Transformation/assets/94165322/582d11df-95c5-46a7-82d9-079829ed544e)
 
-![2 (1)](https://user-images.githubusercontent.com/94165322/232280573-42790e20-f246-4332-b8f5-1704ed3ce797.png)
+
 
 
 ### iii)Image shearing
-![3 (1)](https://user-images.githubusercontent.com/94165322/232280577-563041c6-7300-4998-a512-c9e9bbf77aec.png)
+![3 1](https://github.com/Naveenvetrivel/Image-Transformation/assets/94165322/b2c450e2-ff42-4a98-b174-b501d0b19957)
+
 
 
 ### iv)Image Reflection
-![4 (1)](https://user-images.githubusercontent.com/94165322/232280581-4004ad42-2369-452c-aa44-6223cc2f073d.png)
+
+![4 1](https://github.com/Naveenvetrivel/Image-Transformation/assets/94165322/3ba408ea-597c-4f3a-85f2-484fd436044c)
 
 
 
 ### v)Image Rotation
-![5 (1)](https://user-images.githubusercontent.com/94165322/232280588-c79801af-2ac9-4f0a-8393-2df2b9919222.png)
+![5](https://github.com/Naveenvetrivel/Image-Transformation/assets/94165322/7b95192c-4696-4cd6-bc65-43cdcf6d694c)
+
 
 
 ### vi)Image Cropping
-![6](https://user-images.githubusercontent.com/94165322/232280599-b756ee7e-3243-430c-9f28-cdc7d115d2d6.png)
+
+![6](https://github.com/Naveenvetrivel/Image-Transformation/assets/94165322/37448d13-f598-444b-a6e2-fcbf559b5fb7)
 
 
 
